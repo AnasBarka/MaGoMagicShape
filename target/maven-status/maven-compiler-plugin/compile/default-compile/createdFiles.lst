@@ -1,0 +1,16 @@
+com/example/MaGoControlView.class
+com/example/MessageParser.class
+com/example/MessageStrategySelector$MessageSelectionStrategy.class
+com/example/MaGoController.class
+com/example/MaGoObserver.class
+com/example/MessageStrategySelector.class
+com/example/MaGoView.class
+com/example/SquareMaGo.class
+com/example/MessageStrategySelector$BestForTypeStrategy.class
+com/example/MessageStrategySelector$RandomStrategy.class
+com/example/MaGoFactory.class
+com/example/ColorUtils.class
+com/example/MaGo.class
+com/example/MessageStrategySelector$BestForRandomTypeStrategy.class
+com/example/CircleMaGo.class
+com/example/Main.class
